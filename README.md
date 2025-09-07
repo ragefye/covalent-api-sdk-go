@@ -1,4 +1,8 @@
-# My Covalent SDK Exploration 🚀
+## Week 1 — API Test
+- ✅ Generated Covalent API key (Sept 7, 2025).
+- ✅ Ran `balances_v2` endpoint on Ethereum Foundation wallet.
+- ✅ Received JSON output (screenshot saved privately).
+- 🔄 Next: Explore transaction history endpoint.# My Covalent SDK Exploration 🚀
 
 Fork of: covalenthq/covalent-api-sdk-go  
 Goal: test core API endpoints (balances, NFTs, tx history) from mobile and publish POA.  
