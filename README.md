@@ -1,4 +1,8 @@
-# Covalent SDK for Golang
+# My Covalent SDK Exploration 🚀
+
+Fork of: covalenthq/covalent-api-sdk-go  
+Goal: test core API endpoints (balances, NFTs, tx history) from mobile and publish POA.  
+Status: ✅ Forked (07/09/2025) — Next: run first balances query.# Covalent SDK for Golang
 
 The Covalent SDK is the fastest way to integrate the Covalent Unified API for working with blockchain data. The SDK works with all [supported chains](https://www.covalenthq.com/docs/networks/) including Mainnets and Testnets. 
 
